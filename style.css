@@ -233,7 +233,7 @@ height: 100%;
     
   }
   .body2right{
-    background-image: url(duf1w1no.bmp);
+    background-image: url(/137-95363.jpg);
     width: 50%;
     height: 100%;
     background-size: 100% 100%;
@@ -487,6 +487,11 @@ height: 100%;
 }
 .p7h2{
 
+ color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    font-weight: 600;
+    font-family: monospace;
   
 
 
