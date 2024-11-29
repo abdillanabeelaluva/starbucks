@@ -233,7 +233,7 @@ height: 100%;
     
   }
   .body2right{
-    background-image: url(/137-95363.jpg);
+    background-image: url(/img/137-95363.jpg);
     width: 50%;
     height: 100%;
     background-size: 100% 100%;
@@ -252,7 +252,7 @@ height: 100%;
   .body3left{
     height: 100;
     width: 50%;
-    background-image: url(/137-95925.png);
+    background-image: url(/img/137-95925.png);
      background-size: 100% 100%;
 
 
@@ -361,7 +361,7 @@ height: 100%;
 .body5left{
     height: 100%;
     width: 50%;
-    background-image: url(/137-95365.jpg);
+    background-image: url(/img/137-95365.jpg);
     background-size: 100% 100%;
 }
 .body5right{
@@ -452,7 +452,7 @@ height: 100%;
 
  height: 100%;
     width: 50%;
-    background-image: url(/137-95806.jpg);
+    background-image: url(/img/137-95806.webp);
     background-size: 100% 100%;
 }
 .body7{
@@ -466,7 +466,7 @@ height: 100%;
 .body7left{
     width: 50%;
     height: 100%;
-    background-image: url(/137-95706.jpg);
+    background-image: url(/img/137-95706.jpg);
     background-size: 100% 100%;
 }
 .body7right{
