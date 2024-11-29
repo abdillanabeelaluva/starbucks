@@ -138,7 +138,7 @@ height: 100%;
     display: flex;
 }
 .body1left{
-    background-image: url(/137-95723.jpg);
+    background-image: url(/img/137-95723.jpg);
     width: 50%;
     height: 100%;
     background-size:  93% 493px;;
@@ -252,7 +252,7 @@ height: 100%;
   .body3left{
     height: 100;
     width: 50%;
-    background-image: url(137-95925.png);
+    background-image: url(/137-95925.png);
      background-size: 100% 100%;
 
 
