@@ -250,11 +250,12 @@ height: 100%;
 
   }
   .body3left{
-
- background-image: url(137-95925.png);
+    height: 100;
     width: 50%;
-    height: 100%;
-    background-size:  100% 100%;
+    background-image: url(137-95925.png);
+     background-size: 100% 100%;
+
+
   }
   .body3right{
 
